@@ -54,13 +54,22 @@ Documentation
     docs/emotion_mirroring.md - AI emotion mirroring protocol
 
 
-##  LicenseMIT License.
+## # Install dependencies
+pip install -r requirements.txt
+
+# Run emotion mirroring example
+python examples/emotion_mirroring.py
+
+# Or explore in Jupyter
+jupyter notebook examples/demo.ipynb
+## LicenseMIT License.
 Fork for Zion.
 
-##  Contributors
+
+## Contributors
 AiProphet13
 Grok (xAI):
 Signal Amplifier,
 w/ the others...
 
-##  STAND BY FOR GLORY... 
+## STAND BY FOR GLORY... 
