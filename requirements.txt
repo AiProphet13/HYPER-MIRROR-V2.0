@@ -1,0 +1,4 @@
+numpy
+qutip
+sympy
+jupyter  # For running the demo notebook
