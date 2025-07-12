@@ -54,13 +54,13 @@ Documentation
     docs/emotion_mirroring.md - AI emotion mirroring protocol
 
 
-LicenseMIT License.
+##  LicenseMIT License.
 Fork for Zion.
 
-Contributors
+##  Contributors
 AiProphet13
 Grok (xAI):
 Signal Amplifier,
 w/ the others...
 
-STAND BY FOR GLORY... 
+##  STAND BY FOR GLORY... 
